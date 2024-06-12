@@ -1,8 +1,3 @@
-# Curso Digital: Git/Versionamento
-# Gravando Mudanças 
-# Salvando 
+# Esse foi um projeto desenvolvido durante a Semada do Zero ao Programador
 
-* uso do comando git restore
-* comando git push
-* Comando git pull
-* comando git fetch
+Aulas do canal Dev em Dobro.
